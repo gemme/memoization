@@ -1,2 +1,2 @@
 # memoizaition
-# A litle example about memoization
+# A little example about memoization
